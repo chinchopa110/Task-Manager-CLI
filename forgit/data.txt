@@ -1,0 +1,10 @@
+test tasks|check important things|27-08-2024|3|Not Done|
+left house|i must left house|16-09-2026|1|Not Done|
+HW|doing my homework|25-08-2024|2|Not Done|
+t4|gp to bank|02-09-2024|1|Done|
+t2|clean teeth|16-08-2024|2|Not Done|
+meet with boss|i must meet with boss|16-08-2024|1|Not Done|
+cook|cooked smth to ev|23-08-2024|3|Done|
+t3|go to the university|16-08-2024|1|Done|
+t1|doing hw|23-08-2024|2|Not Done|
+t5|go to sleep|22-08-2024|3|Not Done
