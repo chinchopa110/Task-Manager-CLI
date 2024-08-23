@@ -19,6 +19,8 @@ A windowed Task Manager application on C++/CLI
 - Delete all tasks
 
 ![image](https://github.com/user-attachments/assets/ee0dabb8-6df3-41c9-a282-57f38a2b09a9)
+![image](https://github.com/user-attachments/assets/826fbda8-5906-45b8-986f-6fae6c4ca127)
+
 
 
 ### 4.Search tasks by:
